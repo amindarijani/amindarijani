@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amindarijani
-- 👀 I’m interested in Data Sience / Deep Learning / Digital Health
-- 🌱 I’m currently learning Data Sience and Public Health
-- 💞️ I’m looking to collaborate on Deep Learning Projects in the field of Digital Health
+- 👀 I’m interested in Data science / Deep Learning / Digital Health
+- 🌱 I’m currently learning Data science and Medical Biotechnology
+- 💞️ I’m looking to collaborate on Projects in the field of Biotechnology and Data science
 - 📫 How to reach me: mamindarijani@gmail.com
 
 <!---
